@@ -1,18 +1,21 @@
 {
-    "mainnet": {
-      "router": "0x0000000000000000000000000000000000000000"
-    },
+  "mainnet": {
+    "router": "0x0000000000000000000000000000000000000000"
+  },
 
-    "rinkeby": {
-      "router": "0x2f7D150a3319AE046e84bCeCE5a851f2b0873aDd"
-    },
+  "rinkeby": {
+    "router": "0xA41745fCc8193D52eF903D65509836c6BAEfc0eB"
+  },
 
-    "mumbai": {
-      "router": "0xC36373EAe37bc9BD2D1e6EE556dEcF1009714eB8"
-    },
+  "mumbai": {
+    "router": "0x0000000000000000000000000000000000000000"
+  },
 
-    "moonbase": {
-      "router": "0xCBd9c2C10Abb84FbE4FA3F9Ee31cFD39EDa87D6F"
-    }
+  "moonbase": {
+    "router": "0xCBd9c2C10Abb84FbE4FA3F9Ee31cFD39EDa87D6F"
+  },
 
+  "xdai": {
+    "router": "0x0000000000000000000000000000000000000000"
+  }
 }
