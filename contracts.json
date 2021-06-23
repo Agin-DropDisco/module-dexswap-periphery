@@ -4,7 +4,7 @@
   },
 
   "rinkeby": {
-    "router": "0xBA915efd67dd9F59cdEFE6875e3C141311c4D7Ce"
+    "router": "0xe104F693c4dd423AA550F59C84f9fbE44FCC206b"
   },
 
   "mumbai": {
@@ -12,7 +12,7 @@
   },
 
   "moonbase": {
-    "router": "0xCBd9c2C10Abb84FbE4FA3F9Ee31cFD39EDa87D6F"
+    "router": "0xFAB4DB18F762aF1edfA3FE2FD7cABc222131C7F6"
   },
 
   "xdai": {
