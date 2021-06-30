@@ -7,7 +7,7 @@
     "router": "0xdF82C2b6a1ed2CE3fcb6a879603A52bf2b9966dC"
   },
 
-  "mumbai": {
+  "matic": {
     "router": "0x0000000000000000000000000000000000000000"
   },
 
