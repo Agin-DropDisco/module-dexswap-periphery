@@ -4,11 +4,11 @@
   },
 
   "rinkeby": {
-    "router": "0x264076254549C4030f5bA8f971fCB619d95968B5"
+    "router": "0x45c6f6BAe08611a4174effa6699CE65979095fFE"
   },
 
   "matic": {
-    "router": "0x6a82150273567a692E0b67FDc531E671bDBdd99a"
+    "router": "0xe2170c94364A186813CBDEC0347C28D91d151229"
   },
 
   "moonbase": {
