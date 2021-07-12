@@ -3,13 +3,13 @@
     "router": "0x0000000000000000000000000000000000000000"
   },
   "rinkeby": {
-    "router": "0x200418298d2AAF2f855c0581a1529950206d4Acb"
+    "router": "0xEfBfB227262D069a3FA7f44393797c0dFc8f6eaa"
   },
   "matic": {
     "router": "0x43381d30cd5181Aed9b70F5Ac879A962B6945635"
   },
   "mumbai": {
-    "router": "0x3457270fAEB5980fF84B03610f6cc23BC4951a93"
+    "router": "0xE637a217643E1fb4Ce1DB81E32B0e2090Daa1AD2"
   },
   "moonbase": {
     "router": "0xFAB4DB18F762aF1edfA3FE2FD7cABc222131C7F6"
