@@ -3,7 +3,7 @@
     "router": "0x0000000000000000000000000000000000000000"
   },
   "rinkeby": {
-    "router": "0xEfBfB227262D069a3FA7f44393797c0dFc8f6eaa"
+    "router": "0xc872c6bcc2e4afb208ddfb93b13da70ad837c8fe"
   },
   "matic": {
     "router": "0x7e87a968141Ec02254B53B9e58f9D64355B11B18"
